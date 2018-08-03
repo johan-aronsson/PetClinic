@@ -1,6 +1,6 @@
 package com.aronsson.petclinic.model;
 
-public class PetType {
+public class PetType extends BaseEntity{
 
 
 }
